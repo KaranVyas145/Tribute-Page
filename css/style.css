@@ -27,7 +27,7 @@
     content: '';
     width: 100%;
     height: 100vh;
-    background-image: url(https://m.media-amazon.com/images/I/81wRMTfHKsL._AC_SY741_.jpg);
+    background-image: url("images/comic_background.jpg");
     position: fixed;
     top: 0px;
     left: 0px;
